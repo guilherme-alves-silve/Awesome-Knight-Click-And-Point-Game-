@@ -297,6 +297,7 @@
     <Compile Include="Assets\Scripts\Camera Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Camera Scripts\MouseScript.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\EnemyControl.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\EnemyControlAnotherWay.cs" />
     <Compile Include="Assets\Scripts\FX Scripts\DestroyAfterTime.cs" />
     <Compile Include="Assets\Scripts\FX Scripts\DestroyPointer.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerAttack.cs" />
